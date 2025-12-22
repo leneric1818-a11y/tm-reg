@@ -1,0 +1,8 @@
+{
+  "n_folds": 5,
+  "random_seed": 42,
+  "stage": "full",
+  "total_conversations": 76,
+  "total_samples": 5381,
+  "conversations_file": "/Users/ericrudolph/Development/02_Research_Projects/geccoalignment/nsp/NextCategoryPrediction/dataprep/dataset_files/conversations.json"
+}
